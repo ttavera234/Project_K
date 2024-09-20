@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b4obeyo7yn7k7"
+path="res://.godot/imported/floor_tile_big_grate.obj-eaa21a7ef5f6a7b208098cc758e929e5.mesh"
+
+[deps]
+
+files=["res://.godot/imported/floor_tile_big_grate.obj-eaa21a7ef5f6a7b208098cc758e929e5.mesh"]
+
+source_file="res://Assets/KayKit_DungeonRemastered_1.1/Assets/obj/floor_tile_big_grate.obj"
+dest_files=["res://.godot/imported/floor_tile_big_grate.obj-eaa21a7ef5f6a7b208098cc758e929e5.mesh", "res://.godot/imported/floor_tile_big_grate.obj-eaa21a7ef5f6a7b208098cc758e929e5.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
